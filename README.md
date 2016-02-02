@@ -18,19 +18,24 @@ Make sure while using “PUT” feature, the file is in the same directory
 
 **4.User Instructions:**
 The make file generates the executable ./client.
+
 GET & PUT METHOD
 *`./client <GET/PUT><DNS>:<PORT>/<filename>`
 for example
+
 GET
 *`./client GET nwprog1.netlab.hut.fi:3000/index`
+
 PUT
 *`./client PUT nwprog1.netlabt.hut.fi:3000/index`
+
 POST METHOD
 `./client <POST><SERVERDNS>:<PORT>/<lookupname><querytype>`
+
 for example you want to find ip address for www.google.com and query A
 *`./client POST nwprog1.netlab.hut.fi:8934/www.google.com A`
-The results of the post query will be saved in the results.txt.
-In command line you can only write "Get"/"GET" and "Put"/"PUT"
-Other than that program will not be implemented.
-The file you want to upload during the HTTP put should be in the same directory shown in the terminal. 
+
+
+The results of the post query will be saved in the results.txt.In command line you can only write "Get"/"GET" and "Put"/"PUT"
+Other than that program will not be implemented.The file you want to upload during the HTTP put should be in the same directory shown in the terminal. 
 
