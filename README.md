@@ -1,3 +1,6 @@
+# HTTP CLIENT
+
+**Descrition**
 Http client built a transport layer connection with the server for the purpose of communication. This
 transport layer virtual circuit is built with the help of mostly TCP.It is a program that establishes connections
 for the purpose of sending requests.
@@ -5,7 +8,7 @@ There are various kinds of requests which a HTTP client can send, but in this im
 mandatory requests which were implemented in the first phase of the assignment.
 1) GET: Fetch a file from a server and store it into local file system.
 2) PUT: push a file to a given server provided by user from a local file system.
-3)Post
+3) Post
 
 
 
