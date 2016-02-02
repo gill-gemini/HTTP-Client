@@ -10,7 +10,7 @@ mandatory requests which were implemented in the first phase of the assignment.
 * PUT: push a file to a given server provided by user from a local file system.
 * Post
 
-![Diagram of models]( https://github.com/gill-gemini/HTTP-Client/blob/master/httpclient.png)
+![Diagram of models]( https://github.com/gill-gemini/HTTP-Client/blob/master/httpclient.png) [1]
 
 **Installation Instructions and requirements:**
  * Just write “make” in the terminal.
@@ -39,3 +39,4 @@ for example you want to find ip address for www.google.com and query A
 The results of the post query will be saved in the results.txt.In command line you can only write "Get"/"GET" and "Put"/"PUT"
 Other than that program will not be implemented.The file you want to upload during the HTTP put should be in the same directory shown in the terminal. 
 
+[1] http://www.tankonyvtar.hu/hu/tartalom/tamop425/0027_ADW1/ch01s02.html
