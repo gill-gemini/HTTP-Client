@@ -10,7 +10,7 @@ mandatory requests which were implemented in the first phase of the assignment.
 * PUT: push a file to a given server provided by user from a local file system.
 * Post
 
-
+![Diagram of models]( https://github.com/gill-gemini/HTTP-Client/blob/master/httpclient.png)
 
 **Installation Instructions and requirements:**
  * Just write “make” in the terminal.
